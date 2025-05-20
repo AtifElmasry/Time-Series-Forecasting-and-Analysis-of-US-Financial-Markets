@@ -7,7 +7,6 @@ This repository contains a complete walkthrough of time series analysis and fore
 
 ```
 ├── synthetic_stock_analysis.ipynb        # Jupyter notebook with analysis
-├── synthetic_stock_analysis_clean.py     # Python script version of the notebook
 ├── synthetic_stock_data.csv              # Synthetic financial time series dataset
 ```
 
